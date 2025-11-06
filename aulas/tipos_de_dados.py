@@ -1,0 +1,11 @@
+print(11+10)
+print(1.89 + -789)
+print(True)
+print(False)
+print("Python é incrível!")
+print('DIO - Santander')
+
+int()
+float()
+bool()
+str()
