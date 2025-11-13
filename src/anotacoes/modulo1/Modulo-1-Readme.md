@@ -4,7 +4,7 @@
 
 Este módulo apresenta os fundamentos da linguagem Python, configuração do ambiente de desenvolvimento e a criação do primeiro programa.
 
-**Carga Horária:** [X horas]  
+**Carga Horária:** [1 hora]  
 **Status:** 🔄 Em andamento
 
 ---
@@ -147,6 +147,7 @@ print(f"Olá, {nome}! Bem-vindo ao Python!")
 **Exemplo de execução:**
 
 ```
+
 Digite seu nome: João
 Olá, João! Bem-vindo ao Python!
 
